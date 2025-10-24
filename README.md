@@ -1,2 +1,2 @@
-# gesture-based-AI-control-module-using-hand.py
-its an module which runs on arduino uno using python libraries such as hand.py,serial.Using mediapipe line to itegrate human hand motion and computer neural network 
+# controlla-Gesture-based-AI-control-module-using-hand.py
+This gesture-based AI control module uses Python and MediaPipe to interpret human hand movements and interface with Arduino Uno for real-time hardware control. Designed with `hand.py`,'serial.py'-serial communication, and VS Code, it bridges physical gestures and neural network logic for intuitive automation.
